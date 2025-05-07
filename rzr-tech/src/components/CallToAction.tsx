@@ -69,7 +69,7 @@ const CallToAction = () => {
                 </div>
                 <div className="contact-text">
                   <h4>Email Us</h4>
-                  <p>contact@rzrtechnologies.com</p>
+                  <p>rzr.technology.ai@gmail.com</p>
                 </div>
               </div>
               

@@ -9,8 +9,6 @@ const Footer = () => {
       title: 'Company',
       links: [
         { name: 'About Us', to: '/' },
-        { name: 'Our Team', to: '/' },
-        { name: 'Careers', to: '/' },
         { name: 'Contact', to: 'contact' },
       ]
     },
@@ -22,16 +20,7 @@ const Footer = () => {
         { name: 'Dashboard Creation', to: 'services' },
         { name: 'Application Development', to: 'services' },
       ]
-    },
-    {
-      title: 'Resources',
-      links: [
-        { name: 'Blog', to: '/' },
-        { name: 'Documentation', to: '/' },
-        { name: 'FAQ', to: '/' },
-        { name: 'Support', to: '/' },
-      ]
-    },
+    }
   ];
   
   const socialLinks = [
